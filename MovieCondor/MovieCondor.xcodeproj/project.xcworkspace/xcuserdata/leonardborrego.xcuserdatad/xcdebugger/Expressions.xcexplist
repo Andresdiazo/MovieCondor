@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NetworkService.consumeService(baseUrl:method:parameters:completion:):NetworkService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "parameters.reduce(&quot;&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomePresenter.getMovieList():HomePresenter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NetworkService.consumeService(baseUrl:method:parameters:completion:):NetworkService.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
